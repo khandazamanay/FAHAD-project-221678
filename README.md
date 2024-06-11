@@ -1,1 +1,2 @@
-This Is the complete project please feel free to Make this as a base for your project and work on it as you like all the proteus files are in the MES Folder and the .ino files are the two variation in the codes for either using a servo motor or not using it
+
+This project provides a foundational framework for further development. The included Proteus files (located in the MES folder) and Arduino code variations (designated by .ino file extensions) offer two functionalities: one utilizing a servo motor and another functioning without it. This versatility allows you to adapt the project to your specific needs and build upon it for more complex applications. Feel free to modify and expand upon this base to achieve your desired goals.
